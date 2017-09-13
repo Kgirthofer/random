@@ -1,2 +1,4 @@
 (1234,12/25/12,employee(4567,Karl,employeeType(5678),Girthofer),us)
-(5464,01/23/13,employee(8654,Steve,employeeType(7859),Grool),eu)
+(5464,01/23/13,employee(8654,Steve,employeeType(7754),Grool),eu)
+(4794,06/22/10,employee(8765,Big,employeeType(7345),Papa),cn)
+(3409,01/11/89,employee(2341,Vince,employeeType(1239),Staples),us)
